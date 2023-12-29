@@ -10,8 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/archana-rawat-0a7762237" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="[linkedin logo](https://www.linkedin.com/in/archana-rawat-0a7762237)"  /></a>
+  <a href="https://www.linkedin.com/in/archana-rawat-0a7762237" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
