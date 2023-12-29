@@ -10,9 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
   <a href="https://www.linkedin.com/in/archana-rawat-0a7762237" target="_blank">
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In Logo"/>
   </a>
 </p>
 
