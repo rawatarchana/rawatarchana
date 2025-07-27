@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/rawatarchana)
 
 <h1 align="center">Hi 👋, I'm Archana.</h1>
-<h3 align="center">I'm a 3rd-year CSE student passionate about web development, currently focusing on the backend with Node.js.</h3>
+
 <img align ="right" alt= "coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **Node js**
